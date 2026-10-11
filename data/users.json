@@ -1,0 +1,1409 @@
+[
+    {
+        "id": 1,
+        "name": "Úrsula Souza",
+        "age": 41,
+        "purchases": [
+            {
+                "id": 4,
+                "name": "Completo Enfermaria Regional",
+                "category": "Completo",
+                "price": 289.9,
+                "color": "Regional"
+            },
+            {
+                "id": 9,
+                "name": "Odonto Plus",
+                "category": "Odontológico",
+                "price": 59.9,
+                "color": "Nacional"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Bruno Silva",
+        "age": 20,
+        "purchases": [
+            {
+                "id": 2,
+                "name": "Ambulatorial Plus",
+                "category": "Ambulatorial",
+                "price": 169.9,
+                "color": "Regional"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Olívia Nunes",
+        "age": 63,
+        "purchases": [
+            {
+                "id": 7,
+                "name": "Sênior Completo",
+                "category": "Completo",
+                "price": 459.9,
+                "color": "Regional"
+            },
+            {
+                "id": 11,
+                "name": "Check-up Anual",
+                "category": "Serviço adicional",
+                "price": 39.9,
+                "color": "Regional"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Carla Costa",
+        "age": 20,
+        "purchases": [
+            {
+                "id": 2,
+                "name": "Ambulatorial Plus",
+                "category": "Ambulatorial",
+                "price": 169.9,
+                "color": "Regional"
+            },
+            {
+                "id": 10,
+                "name": "Telemedicina 24h",
+                "category": "Serviço adicional",
+                "price": 19.9,
+                "color": "Nacional"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Renato Lima",
+        "age": 29,
+        "purchases": [
+            {
+                "id": 1,
+                "name": "Essencial Ambulatorial",
+                "category": "Ambulatorial",
+                "price": 129.9,
+                "color": "Municipal"
+            },
+            {
+                "id": 10,
+                "name": "Telemedicina 24h",
+                "category": "Serviço adicional",
+                "price": 19.9,
+                "color": "Nacional"
+            },
+            {
+                "id": 8,
+                "name": "Odonto Básico",
+                "category": "Odontológico",
+                "price": 29.9,
+                "color": "Municipal"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Henrique Souza",
+        "age": 34,
+        "purchases": [
+            {
+                "id": 5,
+                "name": "Completo Apartamento",
+                "category": "Completo",
+                "price": 389.9,
+                "color": "Regional"
+            },
+            {
+                "id": 9,
+                "name": "Odonto Plus",
+                "category": "Odontológico",
+                "price": 59.9,
+                "color": "Nacional"
+            },
+            {
+                "id": 10,
+                "name": "Telemedicina 24h",
+                "category": "Serviço adicional",
+                "price": 19.9,
+                "color": "Nacional"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Tiago Martins",
+        "age": 38,
+        "purchases": [
+            {
+                "id": 5,
+                "name": "Completo Apartamento",
+                "category": "Completo",
+                "price": 389.9,
+                "color": "Regional"
+            },
+            {
+                "id": 9,
+                "name": "Odonto Plus",
+                "category": "Odontológico",
+                "price": 59.9,
+                "color": "Nacional"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Karen Silva",
+        "age": 68,
+        "purchases": [
+            {
+                "id": 7,
+                "name": "Sênior Completo",
+                "category": "Completo",
+                "price": 459.9,
+                "color": "Regional"
+            },
+            {
+                "id": 11,
+                "name": "Check-up Anual",
+                "category": "Serviço adicional",
+                "price": 39.9,
+                "color": "Regional"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Karen Santos",
+        "age": 37,
+        "purchases": [
+            {
+                "id": 4,
+                "name": "Completo Enfermaria Regional",
+                "category": "Completo",
+                "price": 289.9,
+                "color": "Regional"
+            },
+            {
+                "id": 9,
+                "name": "Odonto Plus",
+                "category": "Odontológico",
+                "price": 59.9,
+                "color": "Nacional"
+            },
+            {
+                "id": 11,
+                "name": "Check-up Anual",
+                "category": "Serviço adicional",
+                "price": 39.9,
+                "color": "Regional"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Sabrina Costa",
+        "age": 74,
+        "purchases": [
+            {
+                "id": 7,
+                "name": "Sênior Completo",
+                "category": "Completo",
+                "price": 459.9,
+                "color": "Regional"
+            },
+            {
+                "id": 11,
+                "name": "Check-up Anual",
+                "category": "Serviço adicional",
+                "price": 39.9,
+                "color": "Regional"
+            },
+            {
+                "id": 12,
+                "name": "Remoção Aeromédica",
+                "category": "Serviço adicional",
+                "price": 24.9,
+                "color": "Nacional"
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Vinícius Costa",
+        "age": 70,
+        "purchases": [
+            {
+                "id": 7,
+                "name": "Sênior Completo",
+                "category": "Completo",
+                "price": 459.9,
+                "color": "Regional"
+            },
+            {
+                "id": 8,
+                "name": "Odonto Básico",
+                "category": "Odontológico",
+                "price": 29.9,
+                "color": "Municipal"
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Yasmin Souza",
+        "age": 53,
+        "purchases": [
+            {
+                "id": 5,
+                "name": "Completo Apartamento",
+                "category": "Completo",
+                "price": 389.9,
+                "color": "Regional"
+            },
+            {
+                "id": 11,
+                "name": "Check-up Anual",
+                "category": "Serviço adicional",
+                "price": 39.9,
+                "color": "Regional"
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Isabela Rocha",
+        "age": 38,
+        "purchases": [
+            {
+                "id": 4,
+                "name": "Completo Enfermaria Regional",
+                "category": "Completo",
+                "price": 289.9,
+                "color": "Regional"
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "name": "Ana Nunes",
+        "age": 45,
+        "purchases": [
+            {
+                "id": 4,
+                "name": "Completo Enfermaria Regional",
+                "category": "Completo",
+                "price": 289.9,
+                "color": "Regional"
+            },
+            {
+                "id": 9,
+                "name": "Odonto Plus",
+                "category": "Odontológico",
+                "price": 59.9,
+                "color": "Nacional"
+            },
+            {
+                "id": 12,
+                "name": "Remoção Aeromédica",
+                "category": "Serviço adicional",
+                "price": 24.9,
+                "color": "Nacional"
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Carla Souza",
+        "age": 43,
+        "purchases": [
+            {
+                "id": 4,
+                "name": "Completo Enfermaria Regional",
+                "category": "Completo",
+                "price": 289.9,
+                "color": "Regional"
+            },
+            {
+                "id": 9,
+                "name": "Odonto Plus",
+                "category": "Odontológico",
+                "price": 59.9,
+                "color": "Nacional"
+            },
+            {
+                "id": 11,
+                "name": "Check-up Anual",
+                "category": "Serviço adicional",
+                "price": 39.9,
+                "color": "Regional"
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "name": "Nicolas Santos",
+        "age": 56,
+        "purchases": [
+            {
+                "id": 5,
+                "name": "Completo Apartamento",
+                "category": "Completo",
+                "price": 389.9,
+                "color": "Regional"
+            },
+            {
+                "id": 9,
+                "name": "Odonto Plus",
+                "category": "Odontológico",
+                "price": 59.9,
+                "color": "Nacional"
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "name": "Henrique Santos",
+        "age": 35,
+        "purchases": [
+            {
+                "id": 5,
+                "name": "Completo Apartamento",
+                "category": "Completo",
+                "price": 389.9,
+                "color": "Regional"
+            },
+            {
+                "id": 9,
+                "name": "Odonto Plus",
+                "category": "Odontológico",
+                "price": 59.9,
+                "color": "Nacional"
+            },
+            {
+                "id": 11,
+                "name": "Check-up Anual",
+                "category": "Serviço adicional",
+                "price": 39.9,
+                "color": "Regional"
+            },
+            {
+                "id": 12,
+                "name": "Remoção Aeromédica",
+                "category": "Serviço adicional",
+                "price": 24.9,
+                "color": "Nacional"
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "name": "Bruno Pereira",
+        "age": 66,
+        "purchases": [
+            {
+                "id": 7,
+                "name": "Sênior Completo",
+                "category": "Completo",
+                "price": 459.9,
+                "color": "Regional"
+            },
+            {
+                "id": 11,
+                "name": "Check-up Anual",
+                "category": "Serviço adicional",
+                "price": 39.9,
+                "color": "Regional"
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "name": "Paulo Santos",
+        "age": 26,
+        "purchases": [
+            {
+                "id": 1,
+                "name": "Essencial Ambulatorial",
+                "category": "Ambulatorial",
+                "price": 129.9,
+                "color": "Municipal"
+            },
+            {
+                "id": 10,
+                "name": "Telemedicina 24h",
+                "category": "Serviço adicional",
+                "price": 19.9,
+                "color": "Nacional"
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "name": "Yasmin Silva",
+        "age": 29,
+        "purchases": [
+            {
+                "id": 1,
+                "name": "Essencial Ambulatorial",
+                "category": "Ambulatorial",
+                "price": 129.9,
+                "color": "Municipal"
+            },
+            {
+                "id": 10,
+                "name": "Telemedicina 24h",
+                "category": "Serviço adicional",
+                "price": 19.9,
+                "color": "Nacional"
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "name": "Gabriela Rocha",
+        "age": 51,
+        "purchases": [
+            {
+                "id": 5,
+                "name": "Completo Apartamento",
+                "category": "Completo",
+                "price": 389.9,
+                "color": "Regional"
+            },
+            {
+                "id": 9,
+                "name": "Odonto Plus",
+                "category": "Odontológico",
+                "price": 59.9,
+                "color": "Nacional"
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "name": "Daniel Silva",
+        "age": 38,
+        "purchases": [
+            {
+                "id": 4,
+                "name": "Completo Enfermaria Regional",
+                "category": "Completo",
+                "price": 289.9,
+                "color": "Regional"
+            },
+            {
+                "id": 9,
+                "name": "Odonto Plus",
+                "category": "Odontológico",
+                "price": 59.9,
+                "color": "Nacional"
+            },
+            {
+                "id": 10,
+                "name": "Telemedicina 24h",
+                "category": "Serviço adicional",
+                "price": 19.9,
+                "color": "Nacional"
+            },
+            {
+                "id": 12,
+                "name": "Remoção Aeromédica",
+                "category": "Serviço adicional",
+                "price": 24.9,
+                "color": "Nacional"
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "name": "Mariana Silva",
+        "age": 57,
+        "purchases": [
+            {
+                "id": 5,
+                "name": "Completo Apartamento",
+                "category": "Completo",
+                "price": 389.9,
+                "color": "Regional"
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "name": "Eduarda Santos",
+        "age": 23,
+        "purchases": [
+            {
+                "id": 2,
+                "name": "Ambulatorial Plus",
+                "category": "Ambulatorial",
+                "price": 169.9,
+                "color": "Regional"
+            },
+            {
+                "id": 10,
+                "name": "Telemedicina 24h",
+                "category": "Serviço adicional",
+                "price": 19.9,
+                "color": "Nacional"
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "name": "Quésia Oliveira",
+        "age": 19,
+        "purchases": [
+            {
+                "id": 2,
+                "name": "Ambulatorial Plus",
+                "category": "Ambulatorial",
+                "price": 169.9,
+                "color": "Regional"
+            },
+            {
+                "id": 10,
+                "name": "Telemedicina 24h",
+                "category": "Serviço adicional",
+                "price": 19.9,
+                "color": "Nacional"
+            },
+            {
+                "id": 8,
+                "name": "Odonto Básico",
+                "category": "Odontológico",
+                "price": 29.9,
+                "color": "Municipal"
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "name": "Sabrina Santos",
+        "age": 60,
+        "purchases": [
+            {
+                "id": 7,
+                "name": "Sênior Completo",
+                "category": "Completo",
+                "price": 459.9,
+                "color": "Regional"
+            },
+            {
+                "id": 11,
+                "name": "Check-up Anual",
+                "category": "Serviço adicional",
+                "price": 39.9,
+                "color": "Regional"
+            },
+            {
+                "id": 12,
+                "name": "Remoção Aeromédica",
+                "category": "Serviço adicional",
+                "price": 24.9,
+                "color": "Nacional"
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "name": "Vinícius Barbosa",
+        "age": 33,
+        "purchases": [
+            {
+                "id": 5,
+                "name": "Completo Apartamento",
+                "category": "Completo",
+                "price": 389.9,
+                "color": "Regional"
+            },
+            {
+                "id": 9,
+                "name": "Odonto Plus",
+                "category": "Odontológico",
+                "price": 59.9,
+                "color": "Nacional"
+            },
+            {
+                "id": 10,
+                "name": "Telemedicina 24h",
+                "category": "Serviço adicional",
+                "price": 19.9,
+                "color": "Nacional"
+            },
+            {
+                "id": 12,
+                "name": "Remoção Aeromédica",
+                "category": "Serviço adicional",
+                "price": 24.9,
+                "color": "Nacional"
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "name": "Sabrina Souza",
+        "age": 48,
+        "purchases": [
+            {
+                "id": 5,
+                "name": "Completo Apartamento",
+                "category": "Completo",
+                "price": 389.9,
+                "color": "Regional"
+            },
+            {
+                "id": 11,
+                "name": "Check-up Anual",
+                "category": "Serviço adicional",
+                "price": 39.9,
+                "color": "Regional"
+            },
+            {
+                "id": 9,
+                "name": "Odonto Plus",
+                "category": "Odontológico",
+                "price": 59.9,
+                "color": "Nacional"
+            },
+            {
+                "id": 12,
+                "name": "Remoção Aeromédica",
+                "category": "Serviço adicional",
+                "price": 24.9,
+                "color": "Nacional"
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "name": "Olívia Rocha",
+        "age": 23,
+        "purchases": [
+            {
+                "id": 2,
+                "name": "Ambulatorial Plus",
+                "category": "Ambulatorial",
+                "price": 169.9,
+                "color": "Regional"
+            },
+            {
+                "id": 10,
+                "name": "Telemedicina 24h",
+                "category": "Serviço adicional",
+                "price": 19.9,
+                "color": "Nacional"
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "name": "Eduarda Lima",
+        "age": 44,
+        "purchases": [
+            {
+                "id": 4,
+                "name": "Completo Enfermaria Regional",
+                "category": "Completo",
+                "price": 289.9,
+                "color": "Regional"
+            },
+            {
+                "id": 11,
+                "name": "Check-up Anual",
+                "category": "Serviço adicional",
+                "price": 39.9,
+                "color": "Regional"
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "name": "Paulo Lima",
+        "age": 55,
+        "purchases": [
+            {
+                "id": 5,
+                "name": "Completo Apartamento",
+                "category": "Completo",
+                "price": 389.9,
+                "color": "Regional"
+            },
+            {
+                "id": 11,
+                "name": "Check-up Anual",
+                "category": "Serviço adicional",
+                "price": 39.9,
+                "color": "Regional"
+            },
+            {
+                "id": 9,
+                "name": "Odonto Plus",
+                "category": "Odontológico",
+                "price": 59.9,
+                "color": "Nacional"
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "name": "Wesley Costa",
+        "age": 30,
+        "purchases": [
+            {
+                "id": 5,
+                "name": "Completo Apartamento",
+                "category": "Completo",
+                "price": 389.9,
+                "color": "Regional"
+            },
+            {
+                "id": 11,
+                "name": "Check-up Anual",
+                "category": "Serviço adicional",
+                "price": 39.9,
+                "color": "Regional"
+            },
+            {
+                "id": 12,
+                "name": "Remoção Aeromédica",
+                "category": "Serviço adicional",
+                "price": 24.9,
+                "color": "Nacional"
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "name": "João Pereira",
+        "age": 44,
+        "purchases": [
+            {
+                "id": 5,
+                "name": "Completo Apartamento",
+                "category": "Completo",
+                "price": 389.9,
+                "color": "Regional"
+            },
+            {
+                "id": 9,
+                "name": "Odonto Plus",
+                "category": "Odontológico",
+                "price": 59.9,
+                "color": "Nacional"
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "name": "Yasmin Oliveira",
+        "age": 63,
+        "purchases": [
+            {
+                "id": 7,
+                "name": "Sênior Completo",
+                "category": "Completo",
+                "price": 459.9,
+                "color": "Regional"
+            },
+            {
+                "id": 11,
+                "name": "Check-up Anual",
+                "category": "Serviço adicional",
+                "price": 39.9,
+                "color": "Regional"
+            },
+            {
+                "id": 12,
+                "name": "Remoção Aeromédica",
+                "category": "Serviço adicional",
+                "price": 24.9,
+                "color": "Nacional"
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "name": "Henrique Lima",
+        "age": 61,
+        "purchases": [
+            {
+                "id": 5,
+                "name": "Completo Apartamento",
+                "category": "Completo",
+                "price": 389.9,
+                "color": "Regional"
+            },
+            {
+                "id": 12,
+                "name": "Remoção Aeromédica",
+                "category": "Serviço adicional",
+                "price": 24.9,
+                "color": "Nacional"
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "name": "Olívia Pereira",
+        "age": 43,
+        "purchases": [
+            {
+                "id": 4,
+                "name": "Completo Enfermaria Regional",
+                "category": "Completo",
+                "price": 289.9,
+                "color": "Regional"
+            },
+            {
+                "id": 9,
+                "name": "Odonto Plus",
+                "category": "Odontológico",
+                "price": 59.9,
+                "color": "Nacional"
+            },
+            {
+                "id": 10,
+                "name": "Telemedicina 24h",
+                "category": "Serviço adicional",
+                "price": 19.9,
+                "color": "Nacional"
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "name": "Isabela Pereira",
+        "age": 51,
+        "purchases": [
+            {
+                "id": 4,
+                "name": "Completo Enfermaria Regional",
+                "category": "Completo",
+                "price": 289.9,
+                "color": "Regional"
+            },
+            {
+                "id": 11,
+                "name": "Check-up Anual",
+                "category": "Serviço adicional",
+                "price": 39.9,
+                "color": "Regional"
+            },
+            {
+                "id": 12,
+                "name": "Remoção Aeromédica",
+                "category": "Serviço adicional",
+                "price": 24.9,
+                "color": "Nacional"
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "name": "Isabela Silva",
+        "age": 51,
+        "purchases": [
+            {
+                "id": 5,
+                "name": "Completo Apartamento",
+                "category": "Completo",
+                "price": 389.9,
+                "color": "Regional"
+            },
+            {
+                "id": 9,
+                "name": "Odonto Plus",
+                "category": "Odontológico",
+                "price": 59.9,
+                "color": "Nacional"
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "name": "Bruno Barbosa",
+        "age": 30,
+        "purchases": [
+            {
+                "id": 5,
+                "name": "Completo Apartamento",
+                "category": "Completo",
+                "price": 389.9,
+                "color": "Regional"
+            },
+            {
+                "id": 9,
+                "name": "Odonto Plus",
+                "category": "Odontológico",
+                "price": 59.9,
+                "color": "Nacional"
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "name": "Daniel Barbosa",
+        "age": 49,
+        "purchases": [
+            {
+                "id": 5,
+                "name": "Completo Apartamento",
+                "category": "Completo",
+                "price": 389.9,
+                "color": "Regional"
+            },
+            {
+                "id": 11,
+                "name": "Check-up Anual",
+                "category": "Serviço adicional",
+                "price": 39.9,
+                "color": "Regional"
+            },
+            {
+                "id": 9,
+                "name": "Odonto Plus",
+                "category": "Odontológico",
+                "price": 59.9,
+                "color": "Nacional"
+            }
+        ]
+    },
+    {
+        "id": 41,
+        "name": "Felipe Nunes",
+        "age": 28,
+        "purchases": [
+            {
+                "id": 1,
+                "name": "Essencial Ambulatorial",
+                "category": "Ambulatorial",
+                "price": 129.9,
+                "color": "Municipal"
+            },
+            {
+                "id": 10,
+                "name": "Telemedicina 24h",
+                "category": "Serviço adicional",
+                "price": 19.9,
+                "color": "Nacional"
+            }
+        ]
+    },
+    {
+        "id": 42,
+        "name": "Karen Almeida",
+        "age": 64,
+        "purchases": [
+            {
+                "id": 5,
+                "name": "Completo Apartamento",
+                "category": "Completo",
+                "price": 389.9,
+                "color": "Regional"
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "name": "João Rocha",
+        "age": 29,
+        "purchases": [
+            {
+                "id": 3,
+                "name": "Completo Enfermaria",
+                "category": "Completo",
+                "price": 239.9,
+                "color": "Municipal"
+            }
+        ]
+    },
+    {
+        "id": 44,
+        "name": "Gabriela Oliveira",
+        "age": 19,
+        "purchases": [
+            {
+                "id": 1,
+                "name": "Essencial Ambulatorial",
+                "category": "Ambulatorial",
+                "price": 129.9,
+                "color": "Municipal"
+            }
+        ]
+    },
+    {
+        "id": 45,
+        "name": "Mariana Almeida",
+        "age": 25,
+        "purchases": [
+            {
+                "id": 2,
+                "name": "Ambulatorial Plus",
+                "category": "Ambulatorial",
+                "price": 169.9,
+                "color": "Regional"
+            },
+            {
+                "id": 10,
+                "name": "Telemedicina 24h",
+                "category": "Serviço adicional",
+                "price": 19.9,
+                "color": "Nacional"
+            }
+        ]
+    },
+    {
+        "id": 46,
+        "name": "Olívia Silva",
+        "age": 33,
+        "purchases": [
+            {
+                "id": 6,
+                "name": "Completo Apartamento Nacional",
+                "category": "Completo",
+                "price": 549.9,
+                "color": "Nacional"
+            }
+        ]
+    },
+    {
+        "id": 47,
+        "name": "Yasmin Rocha",
+        "age": 43,
+        "purchases": [
+            {
+                "id": 5,
+                "name": "Completo Apartamento",
+                "category": "Completo",
+                "price": 389.9,
+                "color": "Regional"
+            },
+            {
+                "id": 9,
+                "name": "Odonto Plus",
+                "category": "Odontológico",
+                "price": 59.9,
+                "color": "Nacional"
+            },
+            {
+                "id": 10,
+                "name": "Telemedicina 24h",
+                "category": "Serviço adicional",
+                "price": 19.9,
+                "color": "Nacional"
+            },
+            {
+                "id": 11,
+                "name": "Check-up Anual",
+                "category": "Serviço adicional",
+                "price": 39.9,
+                "color": "Regional"
+            }
+        ]
+    },
+    {
+        "id": 48,
+        "name": "Quésia Almeida",
+        "age": 29,
+        "purchases": [
+            {
+                "id": 2,
+                "name": "Ambulatorial Plus",
+                "category": "Ambulatorial",
+                "price": 169.9,
+                "color": "Regional"
+            },
+            {
+                "id": 10,
+                "name": "Telemedicina 24h",
+                "category": "Serviço adicional",
+                "price": 19.9,
+                "color": "Nacional"
+            },
+            {
+                "id": 8,
+                "name": "Odonto Básico",
+                "category": "Odontológico",
+                "price": 29.9,
+                "color": "Municipal"
+            }
+        ]
+    },
+    {
+        "id": 49,
+        "name": "Carla Oliveira",
+        "age": 33,
+        "purchases": [
+            {
+                "id": 4,
+                "name": "Completo Enfermaria Regional",
+                "category": "Completo",
+                "price": 289.9,
+                "color": "Regional"
+            },
+            {
+                "id": 9,
+                "name": "Odonto Plus",
+                "category": "Odontológico",
+                "price": 59.9,
+                "color": "Nacional"
+            }
+        ]
+    },
+    {
+        "id": 50,
+        "name": "Nicolas Costa",
+        "age": 70,
+        "purchases": [
+            {
+                "id": 7,
+                "name": "Sênior Completo",
+                "category": "Completo",
+                "price": 459.9,
+                "color": "Regional"
+            },
+            {
+                "id": 11,
+                "name": "Check-up Anual",
+                "category": "Serviço adicional",
+                "price": 39.9,
+                "color": "Regional"
+            }
+        ]
+    },
+    {
+        "id": 51,
+        "name": "Nicolas Rocha",
+        "age": 65,
+        "purchases": [
+            {
+                "id": 7,
+                "name": "Sênior Completo",
+                "category": "Completo",
+                "price": 459.9,
+                "color": "Regional"
+            },
+            {
+                "id": 11,
+                "name": "Check-up Anual",
+                "category": "Serviço adicional",
+                "price": 39.9,
+                "color": "Regional"
+            },
+            {
+                "id": 12,
+                "name": "Remoção Aeromédica",
+                "category": "Serviço adicional",
+                "price": 24.9,
+                "color": "Nacional"
+            }
+        ]
+    },
+    {
+        "id": 52,
+        "name": "Olívia Oliveira",
+        "age": 28,
+        "purchases": [
+            {
+                "id": 1,
+                "name": "Essencial Ambulatorial",
+                "category": "Ambulatorial",
+                "price": 129.9,
+                "color": "Municipal"
+            },
+            {
+                "id": 10,
+                "name": "Telemedicina 24h",
+                "category": "Serviço adicional",
+                "price": 19.9,
+                "color": "Nacional"
+            }
+        ]
+    },
+    {
+        "id": 53,
+        "name": "Isabela Costa",
+        "age": 52,
+        "purchases": [
+            {
+                "id": 6,
+                "name": "Completo Apartamento Nacional",
+                "category": "Completo",
+                "price": 549.9,
+                "color": "Nacional"
+            },
+            {
+                "id": 11,
+                "name": "Check-up Anual",
+                "category": "Serviço adicional",
+                "price": 39.9,
+                "color": "Regional"
+            }
+        ]
+    },
+    {
+        "id": 54,
+        "name": "Carla Almeida",
+        "age": 53,
+        "purchases": [
+            {
+                "id": 5,
+                "name": "Completo Apartamento",
+                "category": "Completo",
+                "price": 389.9,
+                "color": "Regional"
+            },
+            {
+                "id": 11,
+                "name": "Check-up Anual",
+                "category": "Serviço adicional",
+                "price": 39.9,
+                "color": "Regional"
+            },
+            {
+                "id": 12,
+                "name": "Remoção Aeromédica",
+                "category": "Serviço adicional",
+                "price": 24.9,
+                "color": "Nacional"
+            },
+            {
+                "id": 10,
+                "name": "Telemedicina 24h",
+                "category": "Serviço adicional",
+                "price": 19.9,
+                "color": "Nacional"
+            }
+        ]
+    },
+    {
+        "id": 55,
+        "name": "Eduarda Almeida",
+        "age": 64,
+        "purchases": [
+            {
+                "id": 7,
+                "name": "Sênior Completo",
+                "category": "Completo",
+                "price": 459.9,
+                "color": "Regional"
+            },
+            {
+                "id": 11,
+                "name": "Check-up Anual",
+                "category": "Serviço adicional",
+                "price": 39.9,
+                "color": "Regional"
+            },
+            {
+                "id": 12,
+                "name": "Remoção Aeromédica",
+                "category": "Serviço adicional",
+                "price": 24.9,
+                "color": "Nacional"
+            }
+        ]
+    },
+    {
+        "id": 56,
+        "name": "Yasmin Barbosa",
+        "age": 20,
+        "purchases": [
+            {
+                "id": 2,
+                "name": "Ambulatorial Plus",
+                "category": "Ambulatorial",
+                "price": 169.9,
+                "color": "Regional"
+            }
+        ]
+    },
+    {
+        "id": 57,
+        "name": "Mariana Costa",
+        "age": 22,
+        "purchases": [
+            {
+                "id": 2,
+                "name": "Ambulatorial Plus",
+                "category": "Ambulatorial",
+                "price": 169.9,
+                "color": "Regional"
+            },
+            {
+                "id": 10,
+                "name": "Telemedicina 24h",
+                "category": "Serviço adicional",
+                "price": 19.9,
+                "color": "Nacional"
+            }
+        ]
+    },
+    {
+        "id": 58,
+        "name": "Sabrina Silva",
+        "age": 24,
+        "purchases": [
+            {
+                "id": 2,
+                "name": "Ambulatorial Plus",
+                "category": "Ambulatorial",
+                "price": 169.9,
+                "color": "Regional"
+            },
+            {
+                "id": 10,
+                "name": "Telemedicina 24h",
+                "category": "Serviço adicional",
+                "price": 19.9,
+                "color": "Nacional"
+            }
+        ]
+    },
+    {
+        "id": 59,
+        "name": "Daniel Costa",
+        "age": 62,
+        "purchases": [
+            {
+                "id": 7,
+                "name": "Sênior Completo",
+                "category": "Completo",
+                "price": 459.9,
+                "color": "Regional"
+            },
+            {
+                "id": 11,
+                "name": "Check-up Anual",
+                "category": "Serviço adicional",
+                "price": 39.9,
+                "color": "Regional"
+            }
+        ]
+    },
+    {
+        "id": 60,
+        "name": "Renato Almeida",
+        "age": 56,
+        "purchases": [
+            {
+                "id": 4,
+                "name": "Completo Enfermaria Regional",
+                "category": "Completo",
+                "price": 289.9,
+                "color": "Regional"
+            },
+            {
+                "id": 9,
+                "name": "Odonto Plus",
+                "category": "Odontológico",
+                "price": 59.9,
+                "color": "Nacional"
+            }
+        ]
+    }
+]

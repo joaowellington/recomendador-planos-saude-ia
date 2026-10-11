@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "name": "Essencial Ambulatorial",
+        "category": "Ambulatorial",
+        "price": 129.9,
+        "color": "Municipal"
+    },
+    {
+        "id": 2,
+        "name": "Ambulatorial Plus",
+        "category": "Ambulatorial",
+        "price": 169.9,
+        "color": "Regional"
+    },
+    {
+        "id": 3,
+        "name": "Completo Enfermaria",
+        "category": "Completo",
+        "price": 239.9,
+        "color": "Municipal"
+    },
+    {
+        "id": 4,
+        "name": "Completo Enfermaria Regional",
+        "category": "Completo",
+        "price": 289.9,
+        "color": "Regional"
+    },
+    {
+        "id": 5,
+        "name": "Completo Apartamento",
+        "category": "Completo",
+        "price": 389.9,
+        "color": "Regional"
+    },
+    {
+        "id": 6,
+        "name": "Completo Apartamento Nacional",
+        "category": "Completo",
+        "price": 549.9,
+        "color": "Nacional"
+    },
+    {
+        "id": 7,
+        "name": "Sênior Completo",
+        "category": "Completo",
+        "price": 459.9,
+        "color": "Regional"
+    },
+    {
+        "id": 8,
+        "name": "Odonto Básico",
+        "category": "Odontológico",
+        "price": 29.9,
+        "color": "Municipal"
+    },
+    {
+        "id": 9,
+        "name": "Odonto Plus",
+        "category": "Odontológico",
+        "price": 59.9,
+        "color": "Nacional"
+    },
+    {
+        "id": 10,
+        "name": "Telemedicina 24h",
+        "category": "Serviço adicional",
+        "price": 19.9,
+        "color": "Nacional"
+    },
+    {
+        "id": 11,
+        "name": "Check-up Anual",
+        "category": "Serviço adicional",
+        "price": 39.9,
+        "color": "Regional"
+    },
+    {
+        "id": 12,
+        "name": "Remoção Aeromédica",
+        "category": "Serviço adicional",
+        "price": 24.9,
+        "color": "Nacional"
+    }
+]
